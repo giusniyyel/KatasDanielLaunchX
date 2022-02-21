@@ -1,9 +1,10 @@
 # Curso Introductorio de Python
-Katas del curso propedéutico de Python de Launch X - Innovacción Virtual.
-
-**Explorer**: [Daniel Campos](https://www.github.com/giusniyyel)
+**Katas del curso propedéutico de Python de Launch X - Innovacción Virtual.**
 
 Katas desarrolladas en base al contenido de MSLearn y la metáfora de Launch X, traducido e impartido por: [Fernanda Ochoa](https://github.com/FernandaOchoa/CursoIntroPython)
+
+
+**Explorer**: [Daniel Campos](https://www.github.com/giusniyyel)
 
 ## Tabla de contenido
 ---
